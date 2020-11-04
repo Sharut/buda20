@@ -11,6 +11,8 @@ this repo has the following folders:
 - models: the final trained models and vectorizers uploaded to TIRA for testing
 - paper: paper describing our approach
 
+
+# Data
 training data available at https://zenodo.org/record/4039435#.X6LCj_NKi00
 
 
@@ -29,3 +31,8 @@ If you use our code please cite our work.
       url =                 {},
       year =                2020
       }
+
+
+# Contribution
+
+This code was developed by Flora Bolonyai and Jakab Buda
