@@ -27,7 +27,7 @@ If you use our code please cite our work.
       editor =              {Linda Cappellato and Carsten Eickhoff and Nicola Ferro and Aur{\'e}lie N{\'e}v{\'e}ol},
       month =               sep,
       publisher =           {CEUR-WS.org},
-      title =               {{An Ensemble Model Using N-grams and Statistical Features to Identify Fake News Spreaders on Twitter---Notebook for PAN at CLEF 2020}},
+      title =               {{An Ensemble Model Using N-grams and Statistical Features to Identify Fake News Spreaders on Twitter--Notebook for PAN at CLEF 2020}},
       url =                 {},
       year =                2020
       }
