@@ -20,7 +20,7 @@ training data available at https://zenodo.org/record/4039435#.X6LCj_NKi00
 
 If you use our code please cite our work.
 
-    @InProceedings{lichouri:2020,
+    @InProceedings{buda:2020,
       author =              {Jakab Buda and Flora Bolonyai},
       booktitle =           {{CLEF 2020 Labs and Workshops, Notebook Papers}},
       crossref =            {pan:2020},
